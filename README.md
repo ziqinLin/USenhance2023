@@ -2,6 +2,8 @@
 
 Ultrasound (US) imaging is a ubiquitous diagnostic tool in modern medicine, offering safety and affordability compared to other imaging modalities. However, the increasing use of handheld US devices has raised concerns about image quality, as it often falls short of that produced by larger hospital machines. To address this challenge, we present a novel approach leveraging a modified CycleGAN model with an added gamma transition.
 
+<img src="imgs/证书3.jpg" align="center">
+<img src="imgs/poster.png" align="center">
 
 
 # Prerequisites
