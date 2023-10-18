@@ -40,7 +40,7 @@ Please note that root directory is the project root directory.
 ```
 python train.py
 --dataroot
-datasets/ultrasound/breast
+datasets/ultrasound
 --name
 cyclegan_ultrasound_2000
 --model
